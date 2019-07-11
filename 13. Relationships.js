@@ -2,6 +2,7 @@
 You can create a relationship using one of the following two methods:
 	1. Embedded documents.
 	2. Referenced documents.
+
 The method you use will depend on the data, and how you intend to query that data
 
 Embedded Relationships
@@ -128,7 +129,6 @@ When to use Embedded Relationships
 One of the main benefits of using the embedded relationship method is performance. 
 When the relationship is embedded within the document, queries will run faster than if they were spread out over multiple documents
 Embedded relationships also make queries easier to write.
-
 
 When to use Referenced Relationships
 ===================================

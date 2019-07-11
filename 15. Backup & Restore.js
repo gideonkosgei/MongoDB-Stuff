@@ -18,6 +18,6 @@ This command restores all of the data from the backup directory.
 Syntax
 The basic syntax of mongorestore command is −
 
->mongorestore
+> mongorestore
 
 */

@@ -77,7 +77,7 @@ So while showing the data, in RDBMS you need to join three tables and in MongoDB
 
 There are 2 ways in which the relationships between the data can be established in MongoDB:
     1. Reference Documents
-    2.  Documents
+    2. Embedded Documents
 
 
 Referenced Documents
